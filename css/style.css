@@ -41,14 +41,12 @@ body {
   border-radius: 20px;
   border: none;
   display: flex;
-  /* justify-content: space-around; */
   align-items: center;
   font-family: var(--L);
   font-style: normal;
   font-weight: 900;
   font-size: 14px;
   line-height: 20px;
-  /* align-items: center; */
   color: #FFFFFF;
 }
 
@@ -166,7 +164,6 @@ body {
   font-family: var(--L);
   font-weight: normal;
   font-size: 14px;
-  /* line-height: 20px; */
   margin-bottom: 25px;
 }
 
@@ -175,7 +172,6 @@ body {
   color: #4B5157;
   font-family: var(--L);
   font-size: 14px;
-  /* line-height: 20px; */
   margin-bottom: 40px;
 }
 
@@ -196,16 +192,13 @@ body {
 }
 
 .card-4 {
-  /* min-height: 394px; */
   padding-top: 35px;
   padding-bottom: 195px;
   padding-left: 25px;
   background: #FF4F52 url("../images/image-card-4.png") no-repeat top right;
   background-size: contain;
 }
-.card-4>.text-light{
-  /* padding-top: -10px; */
-}
+
 
 .card-price {
   font-family: var(--L);
