@@ -138,7 +138,22 @@ body {
   background: #e3e2e3 url("../images/Image-card-1.png") no-repeat top right;
   background-size: cover;
 }
-
+.card-2 {
+  background: #e3e2e3 url("../images/image-card-2.png") no-repeat top right;
+  background-size: cover;
+}
+.card-3 {
+  padding-top: 35px;
+  background: #CCD5E6 url("../images/image-card-3.png") no-repeat top right 10%;
+  background-size: contain;
+}
+.card-4 {
+  padding-top: 35px;
+  padding-bottom: 195px;
+  padding-left: 25px;
+  background: #FF4F52 url("../images/image-card-4.png") no-repeat top right;
+  background-size: contain;
+}
 .card-title {
   max-width: 222px;
   color: #262D33;
@@ -175,29 +190,16 @@ body {
   margin-bottom: 40px;
 }
 
-.card-2 {
-  background: #e3e2e3 url("../images/image-card-2.png") no-repeat top right;
-  background-size: cover;
-}
+
 
 .text-light {
   color: #fff;
   
 }
 
-.card-3 {
-  padding-top: 35px;
-  background: #CCD5E6 url("../images/image-card-3.png") no-repeat top right 10%;
-  background-size: contain;
-}
 
-.card-4 {
-  padding-top: 35px;
-  padding-bottom: 195px;
-  padding-left: 25px;
-  background: #FF4F52 url("../images/image-card-4.png") no-repeat top right;
-  background-size: contain;
-}
+
+
 
 
 .card-price {
